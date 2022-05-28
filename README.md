@@ -12,7 +12,7 @@ This is content based recommender system that recommends movies based on Movies 
 I created the frontend using [Streamlit](https://streamlit.io/) and deployed the application on [Heroku](https://www.heroku.com/).
 
 ## Screenshots
-![Screenshot (561)](https://user-images.githubusercontent.com/79306021/170832832-97e534b3-f4dc-4d9b-87c5-bf3c1f76a29b.png)
+![Screenshot (561)](https://user-images.githubusercontent.com/79306021/170834226-1769a149-16f7-4cf9-a651-6145ca871e36.png)
 ![Screenshot (562)](https://user-images.githubusercontent.com/79306021/170832920-0cf22d7d-7da7-416b-9d94-78e3a467be5e.png)
 ![Screenshot (563)](https://user-images.githubusercontent.com/79306021/170833906-319d50a0-c7a4-4c98-9687-cb20d647ed6a.png)
 
